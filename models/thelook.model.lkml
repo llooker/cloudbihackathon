@@ -1,4 +1,4 @@
-connection: "looker-private-demo"
+connection: "lookerdata"
 label: " eCommerce"
 include: "/views/**/*.view" # include all the views
 include: "/dashboards/*.dashboard.lookml" # include all the views
